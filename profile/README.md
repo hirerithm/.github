@@ -76,6 +76,10 @@ AI를 활용하여 후보자의 경력과 강점을 분석하고, 기업이 원�
 
 - Express.js
 
+### 🗄️ Database
+
+- MongoDB
+
 ### 🧠 **AI 추천 엔진**
 
 - Python, PySide
